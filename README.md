@@ -3,7 +3,7 @@
 
 ----
 
-# IBM Cloud Streaming Retail Demo setup instructions
+# Demo Setup Instructions
 
 The IBM Cloud Streaming Retail Demo showcases some data and analytics technologies on the IBM Cloud. Some of the technologies include:
 
