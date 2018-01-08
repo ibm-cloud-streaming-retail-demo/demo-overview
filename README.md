@@ -1,3 +1,8 @@
+[![Apache2 license](http://img.shields.io/badge/license-apache2-brightgreen.svg)](http://opensource.org/licenses/Apache-2.0)
+[![Chat on Gitter](https://img.shields.io/gitter/room/streaming-retail-demo/streaming-retail-demo.svg)](https://gitter.im/streaming-retail-demo/Lobby)
+
+----
+
 # IBM Cloud Streaming Retail Demo setup instructions
 
 The IBM Cloud Streaming Retail Demo showcases some data and analytics technologies on the IBM Cloud. Some of the technologies include:
