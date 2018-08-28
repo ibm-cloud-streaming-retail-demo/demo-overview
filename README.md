@@ -14,7 +14,7 @@ The IBM Cloud Streaming Retail Demo showcases some data and analytics technologi
 - IBM Cloud Object Storage
 - Machine Learning (Spark ML, Scikit Learn)
 
-This document describe how to setup the demo.  To experience the demo in action, contact: (TODO)
+This document describes how to setup the demo.  To experience the demo in action, contact: chris snow at uk.ibm.com.
 
 The demo code is all contained within this GitHub repository's parent GitHub organisation [ibm-cloud-streaming-retail-demo](https://github.com/ibm-cloud-streaming-retail-demo).  The parent repository contains a number of GitHub repositories all focused on different aspects of the solution.  The GitHub repositories are described below:
 
