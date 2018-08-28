@@ -7,13 +7,11 @@
 
 The IBM Cloud Streaming Retail Demo showcases some data and analytics technologies on the IBM Cloud. Some of the technologies include:
 
-- Kafka 
-- IBM Analytics Engine (Hortonworks HDP, Hive, Spark Streaming)
-- Spark Streaming
-- Cloud Foundry
-- Kubernetes
-- Elasticsearch
-- Logstash
+- IBM Message Hub (Kafka)
+- IBM Analytics Engine (Spark Structured Streaming)
+- IBM Cloud Foundry
+- IBM Compose ScyllaDB (Cassandra)
+- IBM Cloud Object Storage
 - Machine Learning (Spark ML, Scikit Learn)
 
 This document describe how to setup the demo.  To experience the demo in action, contact: (TODO)
