@@ -1,9 +1,8 @@
 [![Apache2 license](http://img.shields.io/badge/license-apache2-brightgreen.svg)](http://opensource.org/licenses/Apache-2.0)
-[![Chat on Gitter](https://img.shields.io/gitter/room/streaming-retail-demo/streaming-retail-demo.svg)](https://gitter.im/streaming-retail-demo/Lobby)
 
 ----
 
-# Demo Setup Instructions
+# Demo Overview
 
 The IBM Cloud Streaming Retail Demo showcases some data and analytics technologies on the IBM Cloud. Some of the technologies include:
 
@@ -13,8 +12,6 @@ The IBM Cloud Streaming Retail Demo showcases some data and analytics technologi
 - IBM Compose ScyllaDB (Cassandra)
 - IBM Cloud Object Storage
 - Machine Learning (Spark ML, Scikit Learn)
-
-This document describes how to setup the demo.  To experience the demo in action, contact: chris snow at uk.ibm.com.
 
 The demo code is all contained within this GitHub repository's parent GitHub organisation [ibm-cloud-streaming-retail-demo](https://github.com/ibm-cloud-streaming-retail-demo).  The parent repository contains a number of GitHub repositories all focused on different aspects of the solution.  The GitHub repositories are described below:
 
