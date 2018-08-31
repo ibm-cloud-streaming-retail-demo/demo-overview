@@ -25,6 +25,12 @@ These two are a work-in-progress ...
 
 - More coming soon ...
 
+- **IBM Cloud SQL Query** periodically convert json in landing zone from spark-structured-streaming-on-iae-to-cos to partitioned parquet/ORC to support hive queries
+- **Looker** report on hive data populated by IBM Cloud SQL Query or directly in landing zone
+- **Cognos** report on hive data populated by IBM Cloud SQL Query or directly in landing zone
+- **spark-structured-streaming-on-iae-to-hive** https://stackoverflow.com/a/49450254/1033422
+- **Realtime reporting dashboard** using data in hive
+
 ## Credits
 
 This project is based on this dataset:
