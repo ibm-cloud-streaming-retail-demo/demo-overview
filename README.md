@@ -32,7 +32,7 @@ More coming soon ...
 - **spark-structured-streaming-on-iae-to-phoenix** jdbc sink? https://stackoverflow.com/q/45373795/1033422
 - **Realtime reporting dashboard** using data in hive
 - **Compose PostgreSQL sink** https://stackoverflow.com/q/45373795/1033422
-- 
+- **spark structured streaming + hive streaming** https://github.com/jerryshao/spark-hive-streaming-sink
 
 ## Credits
 
