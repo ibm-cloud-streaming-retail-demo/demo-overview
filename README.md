@@ -14,6 +14,9 @@ The IBM Cloud Streaming Retail Demo showcases some data and analytics technologi
 - IBM Cloud Object Storage
 - Machine Learning (Spark ML, Scikit Learn)
 
+![Demo Architecture](./Slide1.png "Demo Architecture")
+
+
 The demo code is all contained within this GitHub repository's parent GitHub organisation [ibm-cloud-streaming-retail-demo](https://github.com/ibm-cloud-streaming-retail-demo).  The parent repository contains a number of GitHub repositories all focused on different aspects of the solution.  The GitHub repositories are described below:
 
 - **[dataset-generator](https://github.com/ibm-cloud-streaming-retail-demo/dataset-generator)** This repository is responsible for generating the main retail dataset for the demo.  You should start with this project to generate the dataset that you will need for the other projects.
